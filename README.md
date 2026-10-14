@@ -76,7 +76,7 @@ The table below compiles leading commercial ambient clinical scribes, sorted in 
 
 For research laboratories, privacy-critical hospital networks, and developers engineering bespoke on-premises ambient documentation stacks, these open-source tools provide the essential building blocks. 
 
-Listed below, strictly sorted in **descending order by GitHub star count**:
+Listed below, strictly sorted in **descending order by GitHub Stars_Count**:
 
 - **[Ollama](https://github.com/ollama/ollama)** [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
   Framework for locally serving quantized large language models (such as Meditron, Llama 3, and Mistral) with accelerated GPU/CPU execution. Vital for private, HIPAA-safe on-premises clinical SOAP note generation and FHIR serialization without external cloud dependencies.
